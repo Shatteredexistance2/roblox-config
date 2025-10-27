@@ -1,7 +1,6 @@
 {
     "event": {
-        "type": "none",
-        "time": 0,
-        "message": ""
+        "type": "disco",
+        "time": 1761549734.171796
     }
 }
