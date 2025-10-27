@@ -1,1 +1,7 @@
-
+{
+    "event": {
+        "type": "none",
+        "time": 0,
+        "message": ""
+    }
+}
