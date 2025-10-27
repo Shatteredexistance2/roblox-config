@@ -1,6 +1,7 @@
 {
     "event": {
-        "type": "rainmoney",
-        "time": 1761549848.6695027
+        "type": "announce",
+        "message": "hi",
+        "time": 1761549899.0343022
     }
 }
