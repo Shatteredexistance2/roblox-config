@@ -1,6 +1,7 @@
 {
     "event": {
-        "type": "undisco",
-        "time": 1761549740.9215934
+        "type": "announce",
+        "message": "hi",
+        "time": 1761549775.7310054
     }
 }
